@@ -66,7 +66,7 @@ const AnimatedRoutes = () => {
         <Route path="/internship-application" element={<InternshipApplication />} />
          {/* skillarc (donot touch) */}
         <Route path="/skillarc" element={<SkillArc />} />
-        <Route path="/Admin" element={<Admin />} />
+        <Route path="/admin" element={<Admin />} />
       </Routes>
     </AnimatePresence>
   );
